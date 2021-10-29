@@ -7,9 +7,9 @@ module key_jitter(
     );
 
     //when clk is 100m,
-    localparam TIME_20MS = 20'd2_000_000;
+    //localparam TIME_20MS = 20'd2_000_000;
     //when clk is 25m,
-    //localparam TIME_20MS = 20'd500_000;
+    localparam TIME_20MS = 20'd500_000;
     //when clk is 1m,
     //localparam TIME_20MS = 20'd20_000;
 
