@@ -1,3 +1,4 @@
+//`timescale
 module key_jitter(
     input clk,
     input rst_n,
